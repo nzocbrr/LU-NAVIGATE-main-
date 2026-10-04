@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836566003503",
+    "project_id": "lunavapp",
+    "storage_bucket": "lunavapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836566003503:android:5146df16cb44b88c3bfbda",
+        "android_client_info": {
+          "package_name": "edu.laguna.lu_navigate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5tCxz038GerA1A1jPsG2Zbr92qtQtbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
